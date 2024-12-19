@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734626632 source:d:\kuliah\semester 3\struktur data\kumpulan codeblocks\tubes std kelompok 20\main.cpp
+	<iostream>
+	"FOTOCOPY.h"
+
+1734626649 d:\kuliah\semester 3\struktur data\kumpulan codeblocks\tubes std kelompok 20\fotocopy.h
+	<iostream>
+
+1734626347 source:d:\kuliah\semester 3\struktur data\kumpulan codeblocks\tubes std kelompok 20\fotocopy.cpp
+	"FOTOCOPY.h"
+
